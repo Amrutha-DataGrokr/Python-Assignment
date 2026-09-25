@@ -1,0 +1,81 @@
+{
+    "cols": [
+        "id",
+        "name",
+        "email",
+        "postalZip",
+        "phone"
+    ],
+    "data": [
+        [
+            1,
+            "Alice Johnson",
+            "alice.johnson@outlook.com",
+            "560001",
+            "(816) 530-4269"
+        ],
+        [
+            2,
+            "Bob Smith",
+            "bob.smith@yahoo.com",
+            560002,
+            "1-811-920-9732"
+        ],
+        [
+            3,
+            "Carol Williams",
+            "carol.williams@example.org",
+            "KA560003",
+            "9876543210"
+        ],
+        [
+            4,
+            "David Brown",
+            "david.brown@company.in",
+            "560004",
+            "(080) 123-4567"
+        ],
+        [
+            5,
+            "Emma Davis",
+            "emma.davis@protonmail.com",
+            "ZIP560005",
+            "65-30-42-69"
+        ],
+        [
+            6,
+            "Frank Miller",
+            "frank.miller@hotmail.com",
+            560006,
+            "1234567890"
+        ],
+        [
+            7,
+            "Grace Wilson",
+            "grace.wilson@mail.com",
+            "560007A",
+            "9988776655"
+        ],
+        [
+            8,
+            "Henry Moore",
+            "henry.moore@domain.net",
+            "560008",
+            "91-65-09-73-2"
+        ],
+        [
+            9,
+            "Ivy Taylor",
+            "ivy.taylor@gmail.com",
+            "BLR560009",
+            "(65) 11-92-73"
+        ],
+        [
+            10,
+            "Jack Anderson",
+            "jack.anderson@icloud.com",
+            560010,
+            "70 80 90 12"
+        ]
+    ]
+}
